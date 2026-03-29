@@ -1,4 +1,4 @@
-const lblDayResult = document.getElementById("lblDayResult");
+/*const lblDayResult = document.getElementById("lblDayResult");
 const lblMonthResult = document.getElementById("lblMonthResult");
 const lblYearResult = document.getElementById("lblYearResult");
 const lblOutput = document.getElementById("lblOutput");
@@ -78,4 +78,4 @@ function getOrdinalSuffix(day) {
         case 3: return 'rd';
         default: return 'th';
     }
-}
+}*/
